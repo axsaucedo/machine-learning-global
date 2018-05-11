@@ -579,10 +579,19 @@ Assessment of impact in sector
 
 _note_
 * Optimise growth techniques with reinforcement learning
+
 * Optimise pricing in real time based on future market, weather, etc
+
 * Predict yield for farming or production leveraging data
+
 * Predict demand trends for production decisions
+
 * Automate produciton vehicles
+
+Examples:
+Observe tech
+agrosight
+
 
 
 [NEXT]
@@ -591,13 +600,23 @@ _note_
 # Healthcare / Pharma
 _note_
 * Automatic disease detection from sources across the body
+
 * Continuous monitoring of health for personalised prevention
+
 * Triage patient cases during hospital admission using patient data
+
 * Optimise design of clinical trials, including label writing/patient selection
+
 * Reduce experiments (ie animal testing) through big data analysis
+
 * Identify targeted patient sub-groups that are underserved
+
 * Reduce cost and time to market for developing medicine
 
+Examples:
+Babylon
+Improbable
+GKN
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
@@ -605,11 +624,22 @@ _note_
 # Politics
 _note_
 * Predict risk of ilicit activity or terrorism using historical crime data and other statistics
+
 * Optimize public policy opinions by taking into account greater set of complex interactions
+
 * Personalise public services to target individual citizens based on multi-modal data
+
 * Optimize procurement strategy to reduce costs for large government agencies (e.g. defense)
+
 * Optimise labor and budget allocation for publicly provided services
+
 * Monitor and automate processes in public prisons to reduce costs
+
+Examples:
+
+Cambridge Analytica
+AdBrain
+Magic Pony Technology
 
 
 [NEXT]
@@ -618,10 +648,21 @@ _note_
 # Transport 
 _note_
 * Optimise pricing and scheduling based on real-time demand updates (e.g. airlines, trucking, etc)
+
 * Predict failure and recommend proactive maintenance for vehicles
+
 * Enable autonomous road/flying vehicles to become commodatised within cities
+
 * Open the possibility for intelligent infrastructure communicating with autonomous vehicles and trains
+
 * Automate operational processes of loading, driving, checking, etc. vehicles
+
+Examples:
+Blue Vision Labs
+Tesla / Hyperloop
+Sky.ai
+Five.AI
+
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
@@ -629,10 +670,19 @@ _note_
 # Education 
 _note_
 * Automation of operational tasks for teachers, staff and even parents
+
 * Personalised education methods optimising individual learning preferences 
+
 * Drastically increase the amount of information taught in less time
+
 * Educational material is restructured to optimise for long-term performance
+
 * Tutoring will be replaced with chatbots and intelligent systems
+
+Examples:
+TeensInAI Initiative
+Linguimi
+Coursera
 
 
 [NEXT]
@@ -641,10 +691,19 @@ _note_
 # Defense 
 _note_
 * Complex systems to enhance and counteract autonomous drones
+
 * Intelligent automated online warfare will increase drastically
+
 * Smart weapons will enable super-human skills in battle-field (auto-aiming, robotic extensions, etc)
+
 * Increase psychological warfare via new communication mediums
+
 * Strategic prediction advice when making decisions
+
+Examples:
+Palantir
+Darktrace
+The Eng Company
 
 
 [NEXT]
@@ -654,34 +713,27 @@ _note_
 
 _note_
 * Identify fraudulent activity using customer transactions and other relevant data
+
 * Evaluate customer credit risk using large amounts of data
+
 * Predit more accurate price movements based on greater amount of data
+
 * Automate regulatory exercises by gathering and analysing structure data
+
+Examples:
+Monzo
+Revolut
+Transferwise
 
 
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-## [Demo](http://http://localhost:8080)
-<style>
-    #eigen-frame {
-        width: 80vw !important;
-        height: 90vh !important;
-        -ms-zoom: 0.75;
-        -moz-transform: scale(0.75);
-        -moz-transform-origin: 0 0;
-        -o-transform: scale(0.75);
-        -o-transform-origin: 0 0;
-        -webkit-transform: scale(0.75);
-        -webkit-transform-origin: 0 0;
-    }
-</style>
+## [Demo](http://e-x.io/)
 
-<div id="eigen-frame">
-<iframe style="height: 100%; width: 100%;" src="http://localhost:8080/">
+<iframe style="height: 60vh; width: 100%;" src="http://e-x.io/">
 </iframe>
-</div>
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
@@ -763,6 +815,7 @@ But also with mobile phones, cars, computers, TVs, etc.
 ### Can you guess who's quote is this?
  
 
+## AI Policy around the world
 
 
 [NEXT SECTION]
