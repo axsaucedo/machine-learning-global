@@ -1,7 +1,7 @@
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
 
 <h2>The Institute for Ethical AI & ML</h2>
-<h4>The ML Ecosystem and its gobal economic impact</h4>
+<h4>The ML Ecosystem and its impact in industry</h4>
 <p>
   <br />
   <br />
@@ -17,7 +17,7 @@
 
 
 <h2>The Institute for Ethical AI & ML</h2>
-<h4>The ML Ecosystem and its gobal economic impact</h4>
+<h4>The ML Ecosystem and its impact in industry</h4>
 
 <table class="bio-table">
   <tr>
@@ -65,11 +65,11 @@
 > The Institute & the Ethical ML Pledge
 > <br>
 > <br>
-> Intuition on Machine Learning
+> Intuition on practial AI
 >
-> Dimensions of ML category segmentation
+> Applications & Impacts of AI in industry
 > 
-> Key issues, risks and opportunities
+> Q&A & Deep Dive
 
 #### Followed by a deep dive discussion
 
