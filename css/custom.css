@@ -79,11 +79,15 @@ code.medium {
 /* Background Slides */
 
 .background h1,
-.background h2,
+.background h2
+{
+    color: #00ffda !important;
+}
+
 .background h3,
 .background h4,
 .background h5,
-.background p
+.background p 
 {
     color: white !important;
 }

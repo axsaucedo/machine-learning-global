@@ -152,7 +152,7 @@ industry frameworks that ensure the long-term ethical development of AI
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
-### What you've heard:
+## What you've heard:
 
 * AI is going to take your job
 * It's going to create a new job for you
@@ -163,7 +163,7 @@ industry frameworks that ensure the long-term ethical development of AI
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
-### What really is AI
+## What really is AI
 
 The general label for a field of study, specifically
 the study of whatever might answer the question of 
@@ -173,11 +173,11 @@ the study of whatever might answer the question of
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
-### There 2 main approaches to building "AI" systems:
+## There 2 main approaches to AI
 
 * Hard coding the rules (such as what you'd do in complex excel formulas)
 
-or
+## or
 
 * Building systems that can "learn the rules" by learning from examples
 
@@ -185,17 +185,17 @@ or
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
-### The "AI" most people refer to
+## The "AI" most people refer to
 
 The main sub-field that currently people refer to when they
-talk about AI is the latter - **Machine Learning**.
+talk about AI is the latter - <font style="color: #00ffda !important">**Machine Learning**</font>
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 But machine learning has been there for a long time...
 
-### Then why the hype now?
+## Then why the hype now?
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
@@ -205,7 +205,9 @@ But machine learning has been there for a long time...
 A branch of Machine Learning that has allowed engineers
 and data scientists build systems that learn from data
 
-#### Very very large amounts of data!
+#### Very <font style="color: #00ffda">very</font> large amounts of data! 
+
+
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
@@ -222,7 +224,7 @@ Given some input data, predict the correct output
 
 Let's try to build a system to predict whether a shape is a square or a triangle
 
-### How do we do this?
+## How do we do this?
 
 
 [NEXT]
@@ -236,7 +238,7 @@ Let's try to build a system to predict whether a shape is a square or a triangle
 ![classification](images/classification-points.png)
 
 [NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+<!-- .slide: data-transition="slide-in fade-out" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ## We want to find a division line
 
 <br>
@@ -258,8 +260,8 @@ The line defined by function
 <img width="40%" src="images/classification-line.png">
 
 [NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-## We want to find a division line
+<!-- .slide: data-transition="fade-in slide-out" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+## So we can predict new data
 
 <br>
 
@@ -296,26 +298,24 @@ And let the machine do the learning
 
 
 [NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-### We let the machine do the learning
+<!-- .slide: data-transition="slide-in fade-out" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+## The machine does the learning
 
 ![classification](images/feature-1.jpg)
 
 We give it two examples (one square, one triangle)
 
-And it tries to create a line
-
 [NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-### We let the machine do the learning
+<!-- .slide: data-transition="fade-in" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+## The machine does the learning
 
 ![classification](images/feature-2.jpg)
 
 We give it more examples
 
 [NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-### We let the machine do the learning
+<!-- .slide:data-transition="fade-in slide-out" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+## The machine does the learning
 
 ![classification](images/feature-3.jpg)
 
@@ -324,7 +324,7 @@ and more...
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-### Minimising loss function
+## Minimising loss function
 
 We optimise the model by **minimising its loss**.
 
@@ -337,7 +337,7 @@ Keep adjusting the weights...
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-### Finding the weights!
+## Finding the weights!
 
 <img width="40%" src="images/classification-line.png">
 
@@ -347,7 +347,7 @@ i.e. **$f(x̄)$ = triangle  if ($0.3 x̄ + 10$) > 0.5 else square**
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-### Now predict new data
+## Now predict new data
 
 ![classification_small](images/classification-newinput.png)
 
@@ -355,7 +355,7 @@ We now have a system that "knows" how to differentiate triangles from squares
 
 [NEXT]
 <!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
-#### But triangles and squares are boring...
+### But triangles and squares are boring...
 
 
 [NEXT]
@@ -442,19 +442,19 @@ which allows to learn more complex things
 
 
 [NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+<!-- .slide: data-transition="slide-in fade-out" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ![perceptron_learning](images/perceptron_learning1.png)
 
 [NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+<!-- .slide: data-transition="fade-in" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ![perceptron_learning](images/perceptron_learning2.png)
 
 [NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+<!-- .slide: data-transition="fade-in" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ![perceptron_learning](images/perceptron_learning3.png)
 
 [NEXT]
-<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+<!-- .slide: data-transition="fade-in slide-out" data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ![perceptron_learning](images/perceptron_learning4.png)
 
 
@@ -550,7 +550,7 @@ Followed by a case study
 
 
 <br>
-(Case study will contain Legal)
+(Case study be a demo on finance)
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
@@ -663,7 +663,7 @@ _note_
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-## [Demo](http://localhost:8080)
+## [Demo](http://lewis.eigen.tech)
 <style>
     #eigen-frame {
         width: 80vw !important;
@@ -715,7 +715,7 @@ A lot of this sounds good, but
 # Implications
 * Automation of processes and people
 * New generation cybersecurity (talk 21st)
-* New unknown national threats 
+* New unsuspected national threats 
 * Danger of algorithmic bias (beyond human traits)
 * Disasters due to lack (and misunderstanding) of regulation
 * Dangers of "staying behind" in the AI race
@@ -727,6 +727,9 @@ A lot of this sounds good, but
 
 ## Jevons Paradox
 
+<img src="images/train.gif">
+
+_note_
 In 1865, William Jevons described:
 
 Machines that were using coal for fuel became more efficient
