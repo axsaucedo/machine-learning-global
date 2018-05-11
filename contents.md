@@ -663,7 +663,7 @@ _note_
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-## [Demo](http://lewis.eigen.tech)
+## [Demo](http://http://localhost:8080)
 <style>
     #eigen-frame {
         width: 80vw !important;
