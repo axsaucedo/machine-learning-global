@@ -74,21 +74,29 @@
 #### Followed by a deep dive discussion
 
 [NEXT]
+<!-- .slide: data-background="images/particles.gif" class="background smallquote" -->
 
 # #LetsDoThis
 
 [NEXT SECTION]
+<!-- .slide: data-background="images/parti.png" class="background smallquote" -->
 # 1. The Institute for Ethical AI & ML
 
 [NEXT]
-## Vision
-Our vision is to attain conscious human-driven AGI
+<!-- .slide: data-background="images/parti.png" class="background smallquote" -->
+
+#### Our vision is to drive conscious human-driven AGI
+<iframe style="height: 50vh; width: 100vw" src="http://ethical.institute"></iframe>
+
+[NEXT]
+<!-- .slide: data-background="images/parti.png" class="background smallquote" -->
 
 ## Mission
 To become the platform that empowers technology leaders through
 industry frameworks that ensure the long-term ethical development of AI
 
 [NEXT]
+<!-- .slide: data-background="images/parti.png" class="background smallquote" style="color: white" -->
 ## Advisors & Ethical ML Committee
 
 * Lucy Yu, Policy Director at Five.AI
@@ -99,6 +107,7 @@ industry frameworks that ensure the long-term ethical development of AI
 
 
 [NEXT]
+<!-- .slide: data-background="images/parti.png" class="background smallquote" style="color: white" -->
 
 ## IEML phased rollout plan
 * **Phase 1 - Ethical ML by pledge**
@@ -111,17 +120,37 @@ industry frameworks that ensure the long-term ethical development of AI
     * Implement policy based on case-studies
 
 [NEXT]
+<!-- .slide: data-background="images/parti.png" class="background smallquote" style="color: white" -->
+
+## 2018
+* Q2 2018 - 1st round of signatories
+* 25th June - ConstrucTech / PropTech with Landsec
+* 7th August - Big launch: The EthicalML Pledge
+* Fall 2018 - Start developing Level 2
+* Q4 2018 - EthicalML Conference
+
+<br>
+## 2019
+* Q1 2019 - EthicalML Industry/Sector Sessions
+* Q4 2019 - Release of the Algorithmic Bias Standard
+
+
+
+[NEXT]
 # Why is it important?
+<!-- .slide: data-background="images/parti.png" class="background smallquote" style="color: white" -->
 
 <br>
 ### Let's find out what ML IS 
 ### and what ML is NOT
 
 [NEXT SECTION]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 # 2. Intuition on AI & Machine Learning
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 ### What you've heard:
 
@@ -132,6 +161,7 @@ industry frameworks that ensure the long-term ethical development of AI
 * It's going to kill us all
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 ### What really is AI
 
@@ -141,6 +171,7 @@ the study of whatever might answer the question of
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 ### There 2 main approaches to building "AI" systems:
 
@@ -152,6 +183,7 @@ or
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 ### The "AI" most people refer to
 
@@ -159,12 +191,14 @@ The main sub-field that currently people refer to when they
 talk about AI is the latter - **Machine Learning**.
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 But machine learning has been there for a long time...
 
 ### Then why the hype now?
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 ## Deep Learning
 
@@ -174,12 +208,14 @@ and data scientists build systems that learn from data
 #### Very very large amounts of data!
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 ## In essence, all Machine Learning is:
 
 If give you an example, would you be able to learn the answers?
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 Given some input data, predict the correct output
 
 ![shapes](images/shapes.svg)
@@ -190,6 +226,7 @@ Let's try to build a system to predict whether a shape is a square or a triangle
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ## First, let's visualise it
 
 * Imagine a 2-d plot
@@ -199,6 +236,7 @@ Let's try to build a system to predict whether a shape is a square or a triangle
 ![classification](images/classification-points.png)
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ## We want to find a division line
 
 <br>
@@ -220,6 +258,7 @@ The line defined by function
 <img width="40%" src="images/classification-line.png">
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ## We want to find a division line
 
 <br>
@@ -238,6 +277,7 @@ The result **$f(x̄)$** states whether it's a triangle or square
 <br>
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 So now let's start with a blank brain
 
@@ -246,6 +286,7 @@ So now let's start with a blank brain
 The machine knows nothing yet...
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 Now let's take some data examples
 
 ![shapes](images/shapes.svg)
@@ -255,6 +296,7 @@ And let the machine do the learning
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ### We let the machine do the learning
 
 ![classification](images/feature-1.jpg)
@@ -264,6 +306,7 @@ We give it two examples (one square, one triangle)
 And it tries to create a line
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ### We let the machine do the learning
 
 ![classification](images/feature-2.jpg)
@@ -271,6 +314,7 @@ And it tries to create a line
 We give it more examples
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ### We let the machine do the learning
 
 ![classification](images/feature-3.jpg)
@@ -279,6 +323,7 @@ and more...
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ### Minimising loss function
 
 We optimise the model by **minimising its loss**.
@@ -291,6 +336,7 @@ Keep adjusting the weights...
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ### Finding the weights!
 
 <img width="40%" src="images/classification-line.png">
@@ -300,6 +346,7 @@ When it finishes, we find optimised weights and biases
 i.e. **$f(x̄)$ = triangle  if ($0.3 x̄ + 10$) > 0.5 else square**
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ### Now predict new data
 
 ![classification_small](images/classification-newinput.png)
@@ -307,10 +354,12 @@ i.e. **$f(x̄)$ = triangle  if ($0.3 x̄ + 10$) > 0.5 else square**
 We now have a system that "knows" how to differentiate triangles from squares
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 #### But triangles and squares are boring...
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 What do we do when we have more complex cases?
 
 ![perceptron_learning](images/perceptron_learning4.png)
@@ -318,6 +367,7 @@ What do we do when we have more complex cases?
 ...way more complex!
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 We just need more flexible models...
 
@@ -326,6 +376,7 @@ We just need more flexible models...
 ### Much more data!
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 ### Neural networks!
 
@@ -336,12 +387,14 @@ Remember our function `f(x) = mx + b`
 This is the same function for a neuron (perceptron)
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ### Instead of just one neuron
 
 ![rnn_diagram](images/rnn-perceptron.svg)
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ### We just have many
 
 ![rnn_diagram](images/rnn-feedforward.svg)
@@ -350,6 +403,7 @@ This gives the function more flexibility
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ### With a few layers
 
 ![deep_rnn_diagram](images/rnn-feedforwardlayers.svg)
@@ -357,17 +411,20 @@ This gives the function more flexibility
 This gives more flexibility for learning
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 #### But this technology has been out there for decades!
 
 ## Why the hype now?
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 #### A breakthrough in machine learning called
 
 # backpropagation
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 Which allowed for neural networks to be MUCH deeper
 
@@ -377,6 +434,7 @@ which allows to learn more complex things
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ### Deep Networks &mdash; many hidden layers
 
 ![deep_rnn_diagram](images/rnn-deepfeedforward.svg)
@@ -384,29 +442,59 @@ which allows to learn more complex things
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ![perceptron_learning](images/perceptron_learning1.png)
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ![perceptron_learning](images/perceptron_learning2.png)
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ![perceptron_learning](images/perceptron_learning3.png)
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 ![perceptron_learning](images/perceptron_learning4.png)
 
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
 
 # Congratulations
 
 You are now an expert on Machine Learning!
 
-[NEXT SECTION]
-
-# 3. AI impact on sectors
+### Let's recap...
 
 [NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+
+### Let's recap...
+
+* The most popular branch of AI is machine learning
+* Machine learning allows algorithms to learn from data
+* Learning from large datasets allows complex practical use
+* Deep learning is a popular method for scale learning
+
+[NEXT]
+<!-- .slide: data-background="images/partistat.png" class="background smallquote" style="color: white" -->
+
+<br>
+### And...
+* These methods have been commoditised
+* Computing power has become exponentially cheaper
+* The popularity, research and competition is booming
+
+
+[NEXT SECTION]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+# 3. Applications in sectors
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
 
 # Overview
 
@@ -416,8 +504,10 @@ Followed by a case study
 
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-Core ML Applications
+
+## Core ML Applications
 
 * Real time optimisation / Predictive analytics
 * Strategic optimisation / Forecasting
@@ -431,8 +521,10 @@ Core ML Applications
 
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-Sectors:
+
+## Sectors:
 
 | | | | |
 | - | - | - | - |
@@ -445,8 +537,10 @@ Sectors:
 
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-Sectors covered today:
+
+## Sectors covered today:
 
 | | | | |
 | - | - | - | - |
@@ -459,6 +553,8 @@ Sectors covered today:
 (Case study will contain Legal)
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
 
 Assessment of impact in sector
 
@@ -467,6 +563,8 @@ Assessment of impact in sector
 
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
 # Opportunities
 * Predict failure and recommend proactive maintenance for equipment
 * Optimize complex manufacturing processes in real time
@@ -475,6 +573,8 @@ Assessment of impact in sector
 
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
 # Agriculture 
 
 _note_
@@ -486,6 +586,8 @@ _note_
 
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
 # Healthcare / Pharma
 _note_
 * Automatic disease detection from sources across the body
@@ -498,6 +600,8 @@ _note_
 
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
 # Politics
 _note_
 * Predict risk of ilicit activity or terrorism using historical crime data and other statistics
@@ -509,6 +613,8 @@ _note_
 
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
 # Transport 
 _note_
 * Optimise pricing and scheduling based on real-time demand updates (e.g. airlines, trucking, etc)
@@ -518,6 +624,8 @@ _note_
 * Automate operational processes of loading, driving, checking, etc. vehicles
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
 # Education 
 _note_
 * Automation of operational tasks for teachers, staff and even parents
@@ -528,6 +636,8 @@ _note_
 
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
 # Defense 
 _note_
 * Complex systems to enhance and counteract autonomous drones
@@ -538,6 +648,8 @@ _note_
 
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
 # Finance
 
 _note_
@@ -549,6 +661,8 @@ _note_
 
 
 [NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
 ## [Demo](http://localhost:8080)
 <style>
     #eigen-frame {
@@ -569,18 +683,47 @@ _note_
 </iframe>
 </div>
 
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+
+A lot of this sounds good, but
+
+#### how's it going to affect the world?
+
+[NEXT SECTION]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+
+# 4. AI impact in industry
 
 [NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
-## Implications
+# Implications
+* Real time optimisation / Predictive analytics
+* Strategic optimisation / Forecasting
+* Radical personalisation
+* Data analysis from (real) big data
+* Automation of operational processes
+* Anomality detection
+* Information retrieval
+* Unstructured data processing
+
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# Implications
 * Automation of processes and people
 * New generation cybersecurity (talk 21st)
-* New national threats (both planned and accidental)
-* Reduction of cost, increased efficiency = Jevons paradox?
- 
+* New unknown national threats 
+* Danger of algorithmic bias (beyond human traits)
+* Disasters due to lack (and misunderstanding) of regulation
+* Dangers of "staying behind" in the AI race
+* Increased efficiency, reduction of cost
 
 
 [NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 ## Jevons Paradox
 
@@ -599,6 +742,7 @@ despite each machine requiring less coal to operate
 the total amount of coal required to power machines is greater and not less
 
 [NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 ### But is this still valid?
 
@@ -606,41 +750,54 @@ Yes, we have seen this with electricity
 
 But also with mobile phones, cars, computers, TVs, etc.
 
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+
+“Artificial intelligence is the future, not only for us, but for all of humankind. It comes with colossal opportunities, but also threats that are difficult to predict. Whoever becomes the leader in this sphere will become the ruler of the world.”
+
+<br>
+### Can you guess who's quote is this?
+ 
+
+
+
 [NEXT SECTION]
+<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
+# 5. Deep Dive Discussion
 
-# 4. The disrupting players
+[NEXT]
+<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
+### Proposed agenda
+* Deep dive on questions
+* Run AI industry analysis process
+* Next steps
 
-[NEXT SECTION]
+[NEXT]
+<!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
 
-# 5. The Impact of AI
-
-[NEXT SECTION]
-
-<!-- .slide: data-background="images/network-background.jpg" class="background smallest" -->
-
-### But for us?
-
-> Obtained an intuitive understanding on ML
-> 
-> Learned about caveats on practical ML
-> 
-> Obtained tips on building distributed architectures
-> 
-> Got an taste of elastic DevOps infrastructure
+### Deep dive discussion
+* Select one of the AI applications
+* Pick an industry
+* Let's deep dive on economic dangers
+* Find out key actions that could be taken
 
 
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
 ### Code
-https://github.com/axsauze/crypto-ml
+https://github.com/axsauze/machine-learning-global
 
 ### Slides
-http://github.com/axsauze/industrial-machine-learning
+https://axsauze.github.io/machine-learning-global/index.html#/
+
 
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
 
-<h2>Industrial Machine Learning</h2>
+<h2>The Institute for Ethical AI & ML</h2>
+
+<h4>The ML ecosystem and its impact in industry</h4>
 
 <table class="bio-table">
   <tr>
@@ -679,8 +836,5 @@ http://github.com/axsauze/industrial-machine-learning
   <tr>
   </tr>
 </table>
-
-### <a style="color: cyan" href="#">Contact me at: a@e-x.io</a>
-
 
 
