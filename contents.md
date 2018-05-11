@@ -382,7 +382,12 @@ We just need more flexible models...
 
 Remember our function `f(x) = mx + b`
 
+<div class="left-col">
 ![perceptron](images/perceptron.svg)
+</div>
+<div class="right-col">
+![line](images/classification-line.png)
+</div>
 
 This is the same function for a neuron (perceptron)
 
