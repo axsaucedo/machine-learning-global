@@ -1,7 +1,7 @@
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
 
 <h2>The Institute for Ethical AI & ML</h2>
-<h4>The ML Ecosystem and its impact in industry</h4>
+<h4>AI and its Impact across Sectors & Nation States</h4>
 <p>
   <br />
   <br />
@@ -17,7 +17,7 @@
 
 
 <h2>The Institute for Ethical AI & ML</h2>
-<h4>The ML Ecosystem and its impact in industry</h4>
+<h4>AI and its Impact across Sectors & Nation States</h4>
 
 <table class="bio-table">
   <tr>
@@ -858,7 +858,7 @@ https://axsauze.github.io/machine-learning-global/index.html#/
 
 <h2>The Institute for Ethical AI & ML</h2>
 
-<h4>The ML ecosystem and its impact in industry</h4>
+<h4>AI and its Impact across Sectors & Nation States</h4>
 
 <table class="bio-table">
   <tr>
